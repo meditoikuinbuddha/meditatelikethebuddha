@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Meditate!"
+title: "Meditate"
 permalink: meditate
 
 header:
@@ -15,8 +15,7 @@ excerpt: "Meditate with us!"
   <figcaption>Tampere. Kuva: Jyrki Nieminen</figcaption>
 </figure>
 
-Meditatelikethebuddha.fi is co-operating with <a href="https://www.dnbf.org/en">The Buddhist Society of Norway</a>, which runs a local group in Tampere, Finland.
-
+We run meditation groups and organize retreats in Finland. Come and join one of our events!
 
 Read about past and future events <a href="https://meditoikuinbuddha.fi/categories/announcements/">here</a>.
 
@@ -24,7 +23,7 @@ Join a Facebook-group:<br> <a href="https://www.facebook.com/groups/416251517754
 
 Like and follow our page on Facebook:<br> <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha - Facebook</a>
 
-Welcome to our events!
+Welcome!
 
 <a href="https://dnbf.org/en">
 <img src="assets/images/buddhistsocietyofnorway.png" alt="buddhistsocietyofnorway">
