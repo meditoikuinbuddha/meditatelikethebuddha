@@ -12,7 +12,7 @@ feature_row:
     title: <a href="/categories/announcements">Announcements</a>
     excerpt: "News and upcoming events."
   - image_path: /assets/images/munkkimikki.jpg
-    title: <a href="/categories/perspective">Monastic Perspective</a>
+    title: <a href="/categories/monasticperspective">Monastic Perspective</a>
     excerpt: "Experienced monastics share their knowledge."
   - image_path: /assets/images/reading.jpg
     title: <a href="/categories/investigate">Investigate the Teachings</a>
