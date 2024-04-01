@@ -13,9 +13,9 @@ feature_row:
     excerpt: "News and upcoming events."
   - image_path: /assets/images/munkkimikki.jpg
     title: <a href="/categories/monasticperspective">Monastic Perspective</a>
-    excerpt: "Experienced monastics share their knowledge."
+    excerpt: "Experienced monastics share their understanding."
   - image_path: /assets/images/reading.jpg
-    title: <a href="/categories/investigate">Investigate the Teachings</a>
+    title: <a href="/categories/suttastudy">Sutta Study</a>
     excerpt: "Explore the Buddha's teachings with us."
 
 ---
