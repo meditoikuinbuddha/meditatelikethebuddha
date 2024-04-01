@@ -9,13 +9,13 @@ header:
 
 feature_row:
   - image_path: /assets/images/colton-sturgeon-6KkYYqTEDwQ-unsplash.jpg
-    title: <a href="/categories/announcements">Announcements</a>
+    title: <a href="nordicbuddhism/categories/announcements">Announcements</a>
     excerpt: "News and upcoming events."
   - image_path: /assets/images/munkkimikki.jpg
-    title: <a href="/categories/monasticperspective">Monastic Perspective</a>
+    title: <a href="nordicbuddhism/categories/monasticperspective">Monastic Perspective</a>
     excerpt: "Experienced monastics share their understanding."
   - image_path: /assets/images/reading.jpg
-    title: <a href="/categories/suttastudy">Sutta Study</a>
+    title: <a href="nordicbuddhism/categories/suttastudy">Sutta Study</a>
     excerpt: "Explore the Buddha's teachings with us."
 
 ---
