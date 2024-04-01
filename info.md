@@ -4,9 +4,9 @@ title: "Welcome!"
 permalink: info
 
 header:
-  overlay_image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg
+  overlay_image: assets/images/siska-vrijburg2.jpg
   caption: "Kuva: [**Siska Vrijburg**]"
-excerpt: "Get to know the Buddha in a Nordic setting."
+excerpt: ""
 
 sidebar:
   - title: "Contact us!"
