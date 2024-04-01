@@ -2,7 +2,7 @@
 layout: "posts"
 title: Guided Meditation by Ajahn Nitho
 excerpt: "Thoughts are like ripples on the swimming pool, left by playing kids."
-date: 2024-04-01 19:00:00 +0200
+date: 2024-04-02 00:00:00 +0200
 author: "Ajahn Nitho"
 category: Guided Meditation
 permalink: ajahnnithomeditation

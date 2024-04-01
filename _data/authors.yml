@@ -65,3 +65,16 @@ Ajahn Nitho:
       icon: ""
       url: "https://dnbf.org/en/ajahn-nitho/"
 
+Bhante Sujato:
+  name        : "Bhante Sujato"
+  bio         : "An Australian Buddhist monk and the founder of Suttacentral.net."
+  avatar      : "/assets/images/avatarsujato.png"
+  location    : Sydney, Australia
+  links:
+    - label: "Suttacentral.net"
+      icon: ""
+      url: "https://suttacentral.net"
+    - label: "Info"
+      icon: ""
+      url: "https://lokanta.github.io/"
+
