@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/venabu.jpg
-  caption: "Kuva: [**DNBF**](https://https://dnbf.org/en/2023/05/venabu-retreat-2023-2/)"
+  caption: "Photo: [**DNBF**](https://https://dnbf.org/en/2023/05/venabu-retreat-2023-2/)"
 excerpt: "Get to know the world-wide community."
 
 feature_row:
