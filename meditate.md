@@ -17,8 +17,8 @@ excerpt: "Meditate with us!"
 
 The Buddhist Society of Norway has many meditation groups all over the Nordics. Choose the one <a href="https://dnbf.org/en/groups/">closest to you</a> and enjoy the company of good friends.
 
-In co-operation with Buddhist Society of Norway we are running a meditation group in Tampere, Finland. We also organize retreats.
-You can read all about past and future events <a href="https://meditoikuinbuddha.fi/categories/announcements/">here</a>.
+In co-operation with Buddhist Society of Norway we organize retreats and run meditation groups in Finland.
+You can read all about our past and future events <a href="https://meditoikuinbuddha.fi/categories/announcements/">here</a>.
 
 Join our Facebook-group and get the latest info on meditation sessions:<br> <a href="https://www.facebook.com/groups/416251517754820">Meditointiryhmä Helsinki&Tampere</a>.<br>
 
