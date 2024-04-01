@@ -17,7 +17,7 @@ author: Ajahn Brahm
 
 <b> Give us feedback: meditoikuinbuddha@gmail.com</b>
 
-It is a strange thing that as a monk I spend many many hours a day by myself and sometimes people as that as a monk without wife and kids are you ever lonely? 
+As a monk I spend many hours a day by myself and sometimes people ask, that as a monk without wife and kids, are you ever lonely? 
 
 Sometimes on a retreat I've been months without speaking to anyone, doesn't it get lonely?
 
