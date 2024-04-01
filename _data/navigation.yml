@@ -10,6 +10,8 @@ main:
     url: https://www.youtube.com/channel/UChhVNQ5q56MAXhrdlKCTo8Q
   - title: "Links"
     url: /links
+  - title: "Suomeksi"
+    url: https://meditoikuinbuddha.fi
 
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

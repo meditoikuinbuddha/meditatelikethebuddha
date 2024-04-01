@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/munkkimikki.jpg
     title: <a href="https://nordicbuddhism.fi/categories/monasticperspective">Monastic Perspective</a>
     excerpt: "Experienced monastics share their understanding."
-  - image_path: /assets/images/reading.jpg
+  - image_path: /assets/images/venabu1.jpg
     title: <a href="https://nordicbuddhism.fi/categories/guidedmeditation">Guided Meditation</a>
     excerpt: "Guided meditation sessions in English."
   - image_path: /assets/images/reading.jpg

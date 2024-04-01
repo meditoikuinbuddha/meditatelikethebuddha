@@ -28,7 +28,7 @@ Ajahn Brahm:
 
 Ajahn Brahmali:
   name        : "Ajahn Brahmali"
-  bio         : "Buddhist monk and a <i>sutta</i>-expert"
+  bio         : "A Norwegian Buddhist monk and a well-known teacher of the <i>suttas</i>"
   avatar      : "/assets/images/avatarbrahmali.jpg"
   location    : Perth, West-Australia
   links:
@@ -41,7 +41,7 @@ Ajahn Brahmali:
 
 Ven. Canda:
   name        : "Ven. Canda"
-  bio         : "A Buddhist nun and the leader of Anukampa Bhikkhuni Project."
+  bio         : "An English Buddhist nun and the leader of Anukampa Bhikkhuni Project."
   avatar      : "/assets/images/avatarcanda.png"
   location    : England
   links:
@@ -54,7 +54,7 @@ Ven. Canda:
 
 Ajahn Nitho:
   name        : "Ajahn Nitho"
-  bio         : "Buddhist monk and the leader of the Buddhist Society of Norway."
+  bio         : "A Norwegian Buddhist monk and the leader of the Buddhist Society of Norway."
   avatar      : "/assets/images/avatarnitho.png"
   location    : Oslo, Norway
   links:
