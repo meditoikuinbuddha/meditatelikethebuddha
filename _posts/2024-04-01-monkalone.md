@@ -27,7 +27,7 @@ I never feel that I have to be with other people. I like people, but I don't hav
 
 Why is that? 
 
-The reason is that there is always someone around: me. Because I'm a friend of myself because I like "me" I'm always with my best friend. 
+The reason is that there is always someone around: me. Because I'm a friend of myself, because I like "me", I'm always with my best friend. 
 
 At night-time in my cave where I live, I always go to sleep with my best friend: me. 
 
