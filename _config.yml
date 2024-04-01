@@ -29,7 +29,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: UTF-8
 
 # Build settings
-theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
@@ -39,6 +38,7 @@ minimal_mistakes_skin: default
 atom_feed:
   hide: true
 search: true
+theme: minimal-mistakes-jekyll
 
 
 defaults:
