@@ -51,3 +51,17 @@ Ven. Canda:
     - label: "Info"
       icon: ""
       url: "https://anukampaproject.org/about/#director"
+
+Ajahn Nitho:
+  name        : "Ajahn Nitho"
+  bio         : "Buddhist monk and the leader of the Buddhist Society of Norway."
+  avatar      : "/assets/images/avatarnitho.png"
+  location    : Oslo, Norway
+  links:
+    - label: "DNBF.org"
+      icon: ""
+      url: "https://dnbf.org"
+    - label: "Info"
+      icon: ""
+      url: "https://dnbf.org/en/ajahn-nitho/"
+
