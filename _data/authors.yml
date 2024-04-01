@@ -1,25 +1,25 @@
 # /_data/authors.yml
 
-Meditoi kuin Buddha:
-  name: "Meditoi kuin Buddha"
+NordicBuddhism.fi:
+  name: "NordicBuddhism.fi"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Buddhan jäljillä."
-  location: "Suomi"
+  bio: "In the footsteps of the Buddha."
+  location: "Finland"
   links:
-    - label: "Ota yhteyttä!"
+    - label: "Contact us!"
       icon: "fas fa-envelope"
       url: "https://meditoikuinbuddha@gmail.com"
-    - label: "Seuraa Facebookissa"
+    - label: "Follow on Facebook"
       icon: "fab fa-facebook-f"
       url: "https://www.facebook.com/profile.php?id=61555870603768"
 
 Ajahn Brahm:
   name: "Ajahn Brahm"
   avatar: "/assets/images/avatarbrahm.png"
-  bio: "Rakastettu meditointimestari."
-  location: "Länsi-Australia"
+  bio: "Beloved meditation master."
+  location: "Perth, West-Australia"
   links:
-    - label: "Opetuksia"
+    - label: "Teachings"
       icon: ""
       url: "https://bitly.ws/3dBc5"
     - label: "Info"
@@ -28,9 +28,9 @@ Ajahn Brahm:
 
 Ajahn Brahmali:
   name        : "Ajahn Brahmali"
-  bio         : "Buddhalainen opettaja ja <i>sutta</i>-asiantuntija"
+  bio         : "Buddhist monk and a <i>sutta</i>-expert"
   avatar      : "/assets/images/avatarbrahmali.jpg"
-  location    : Länsi-Australia
+  location    : Perth, West-Australia
   links:
     - label: "Suttacentral.net"
       icon: ""
@@ -41,9 +41,9 @@ Ajahn Brahmali:
 
 Ven. Canda:
   name        : "Ven. Canda"
-  bio         : "Buddhalainen opettaja ja luostariprojektin vetäjä."
+  bio         : "A Buddhist nun and the leader of Anukampa Bhikkhuni Project."
   avatar      : "/assets/images/avatarcanda.png"
-  location    : Englanti
+  location    : England
   links:
     - label: "Anukampa Bhikkhuni Project"
       icon: ""
