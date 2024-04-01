@@ -25,7 +25,7 @@ Whether you want to explore the Buddha's teachings, or <a href="/categories/anno
 
 We publish articles on Early Buddhism and also share the teachings of experienced monastics.
 
-Meditate like the Buddha is an English sister-site of <a href="https://meditoikuinbuddha.fi">Meditoikuinbuddha.fi</a>, where we study the Early Buddhist Texts in Finnish.
+Nordicbuddhism.fi is an English sister-site of <a href="https://meditoikuinbuddha.fi">Meditoikuinbuddha.fi</a>, where we study the Early Buddhist Texts in Finnish.
 
 
 <a href="https://www.vecteezy.com/free-vector/lotus">Lotus Vectors by Vecteezy</a>
