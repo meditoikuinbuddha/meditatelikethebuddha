@@ -1,7 +1,7 @@
 ---
-title: "Puheenvuoro:"
+title: "Monastic Perspective:"
 layout: category
-permalink: /categories/puheenvuoro/
-taxonomy: Puheenvuoro
+permalink: /categories/monasticperspective
+taxonomy: Monastic Perspective
 entries_layout: grid
 ---
