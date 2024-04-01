@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: Guided Meditation - Simply calm
+title: Guided Meditation – Simply calm
 excerpt: "Thoughts are like ripples on the swimming pool, left by playing kids."
 date: 2024-04-01 19:00:00 +0200
 author: "Ajahn Nitho"
