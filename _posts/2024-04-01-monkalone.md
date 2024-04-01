@@ -44,9 +44,9 @@ Because I'm at peace with myself and accept myself, understanding I'm not perfec
 
 Lonely people are people who don't like themselves. They are afraid of themselves. 
 
-So when no one else is around you are with this strange and terryfying being called "me", who you haven't really made peace with yet, haven't really understood yet. 
+So when no one else is around they are with this strange and terryfying being called "me", who they haven't really made peace with yet, haven't really understood yet. 
 
-But once you understand who you are you become at peace with yourself, you even like yourself. 
+But once you understand who you are you become at peace with yourself, and even like yourself. 
 
 One of the greatest insight you can ever have is "I'm okay".
 To realize there is nothing wrong with you. 
@@ -58,8 +58,6 @@ Once you actually solve the problem of "me" no one else will be difficult for yo
 There won't be "difficult people" anymore because the difficulty of other people is just the projection from your own self. 
 
 I've noticed many times that when people critize each other they are actually speaking of themselves.
-
-It is amazing how people critize because it is something in their character they don't like which they project onto others. I think this is quite commong psychological trait. 
 
 So if you can actually heal the problem by accepting yourself, then you can accept just about anyone. 
 
