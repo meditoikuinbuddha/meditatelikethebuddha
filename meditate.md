@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Meditate"
+title: "Meditate with us!"
 permalink: meditate
 
 header:
   overlay_image: assets/images/dnbf-tromso-1-1200x676.jpg
   caption: "Kuva: [**DNBF**]"
-excerpt: "Meditate with us!"
+excerpt: ""
 ---
 <h2>Would you like to meditate in the Nordics?</h2>
 
