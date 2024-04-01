@@ -21,12 +21,11 @@ sidebar:
 
 Welcome to the Finnish hub of Nordic Buddhism! 
 
-Whether you want to explore the Buddha's teachings, or <a href="/categories/announcements">practice Buddhism in Nordic setting</a>, this is the place for you!
+Whether you want to <a href="nordicbuddhism/categories/suttastudy">explore the Buddha's teachings</a>, <a href="nordicbuddhism/categories/monasticperspective">learn from experienced teachers</a>, or <a href="nordicbuddhism/categories/announcements">practice Buddhism in a Nordic setting</a>, this is the place for you!
 
 We publish articles on Early Buddhism and also share the teachings of experienced monastics.
 
 Nordicbuddhism.fi is an English sister-site of <a href="https://meditoikuinbuddha.fi">Meditoikuinbuddha.fi</a>, where we study the Early Buddhist Texts in Finnish.
-
 
 <a href="https://www.vecteezy.com/free-vector/lotus">Lotus Vectors by Vecteezy</a>
 
