@@ -2,7 +2,7 @@
 main:
   - title: "Posts"
     url: /posts
-  - title: "Meditate!"
+  - title: "Meditate"
     url: /meditate
   - title: "Info"
     url: /info
