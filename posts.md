@@ -11,9 +11,6 @@ feature_row:
   - image_path: /assets/images/colton-sturgeon-6KkYYqTEDwQ-unsplash.jpg
     title: <a href="/categories/announcements">Announcements</a>
     excerpt: "News and upcoming events."
-  - image_path: /assets/images/makaavabuddha.jpg
-    title: <a href="/categories/nutshell">Buddhism in a Nutshell</a>
-    excerpt: "Short summaries of key buddhist concepts."
   - image_path: /assets/images/munkkimikki.jpg
     title: <a href="/categories/perspective">Monastic Perspective</a>
     excerpt: "Experienced monastics share their knowledge."
