@@ -8,8 +8,6 @@ main:
     url: /info
   - title: "Youtube"
     url: https://www.youtube.com/channel/UChhVNQ5q56MAXhrdlKCTo8Q
-  - title: "FB"
-    url: https://www.facebook.com/profile.php?id=61555870603768
   - title: "Links"
     url: /links
 
