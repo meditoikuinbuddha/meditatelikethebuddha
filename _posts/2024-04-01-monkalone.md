@@ -21,7 +21,7 @@ As a monk I spend many hours a day by myself and sometimes people ask, that as a
 
 Sometimes on a retreat I've been months without speaking to anyone, doesn't it get lonely?
 
-When I've been asked that question I have to answer that I'm never lonely. 
+When I've been asked that question I've had to answer that I'm never lonely. 
 
 I never feel that I have to be with other people. I like people, but I don't have to be with them. 
 
