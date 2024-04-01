@@ -1,7 +1,7 @@
 ---
-title: "Lukuhetki:"
+title: "Sutta Study:"
 layout: category
-permalink: /categories/investigate
-taxonomy: Investigate the Teachings
+permalink: /categories/suttastudy
+taxonomy: Sutta Study
 entries_layout: grid
 ---
