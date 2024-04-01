@@ -21,7 +21,9 @@ sidebar:
 
 Welcome to the Finnish hub of Nordic Buddhism! 
 
-Whether you want to <a href="nordicbuddhism/categories/suttastudy">explore the Buddha's teachings</a>, <a href="nordicbuddhism/categories/monasticperspective">learn from experienced teachers</a>, or <a href="nordicbuddhism/categories/announcements">practice Buddhism in a Nordic setting</a>, this is the place for you!
+Nordicbuddhism.fi is a website dedicated to the practice of meditation and to the study of Early Buddhist Texts.
+
+Whether you want to <a href="/categories/suttastudy">explore the Buddha's teachings</a>, <a href="/categories/monasticperspective">learn from experienced teachers</a>, or <a href="/categories/announcements">practice Buddhism in a Nordic setting</a>, this is the place for you!
 
 We publish articles on Early Buddhism and also share the teachings of experienced monastics.
 
