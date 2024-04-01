@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts
+  - title: "Meditate!"
+    url: /meditate
+  - title: "Info"
+    url: /info
+  - title: "Youtube"
+    url: https://www.youtube.com/channel/UChhVNQ5q56MAXhrdlKCTo8Q
+  - title: "FB"
+    url: https://www.facebook.com/profile.php?id=61555870603768
+  - title: "Links"
+    url: /links
+
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
