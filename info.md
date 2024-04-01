@@ -21,7 +21,7 @@ sidebar:
 
 Welcome to the Finnish hub of Nordic Buddhism! 
 
-Whether you want to explore the Buddha's teachings or read about <a href="/categories/announcements">what is happening in Finnish and Nordic Buddhism</a>, this is the place for you!
+Whether you want to explore the Buddha's teachings, or <a href="/categories/announcements">practice Buddhism in Nordic setting</a>, this is the place for you!
 
 We publish articles on Early Buddhism and also share the teachings of experienced monastics.
 
