@@ -12,7 +12,7 @@ excerpt: ""
 
 <figure>
 <img src="assets/images/jyrki-nieminen-5zLhWqntDQA-unsplash.jpg" alt="tampere">
-  <figcaption>Tampere. Kuva: Jyrki Nieminen</figcaption>
+  <figcaption>Tampere. Photo: Jyrki Nieminen</figcaption>
 </figure>
 
 The Buddhist Society of Norway has many meditation groups all over the Nordics. Choose the one <a href="https://dnbf.org/en/groups/">closest to you</a> and enjoy the company of good friends.
