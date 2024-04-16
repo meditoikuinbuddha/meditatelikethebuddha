@@ -19,9 +19,9 @@ sidebar:
   <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
 </figure>
 
-Welcome to the Finnish hub of Nordic Buddhism! 
+Welcome to the Finnish hub for Early Buddhism! 
 
-Nordicbuddhism.fi is a website dedicated to the practice of meditation and to the study of Early Buddhist Texts.
+Nordicbuddhism.fi is a website dedicated to the practice of meditation and the study of Early Buddhist Texts.
 
 Whether you want to <a href="/categories/suttastudy">explore the Buddha's teachings</a>, <a href="/categories/monasticperspective">learn from experienced teachers</a>, or <a href="/categories/guidedmeditations">see how the teachings work on the cushion</a>, this is the place for you!
 
