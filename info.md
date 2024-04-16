@@ -23,7 +23,7 @@ Welcome to the Finnish hub of Nordic Buddhism!
 
 Nordicbuddhism.fi is a website dedicated to the practice of meditation and to the study of Early Buddhist Texts.
 
-Whether you want to <a href="/categories/suttastudy">explore the Buddha's teachings</a>, <a href="/categories/monasticperspective">learn from experienced teachers</a>, or <a href="/categories/announcements">practice Buddhism in a Nordic setting</a>, this is the place for you!
+Whether you want to <a href="/categories/suttastudy">explore the Buddha's teachings</a>, <a href="/categories/monasticperspective">learn from experienced teachers</a>, or <a href="/categories/guidedmeditations">see how the teachings work on the cushion</a>, this is the place for you!
 
 We publish articles on Early Buddhism and also share the teachings of experienced monastics.
 
@@ -33,13 +33,12 @@ Nordicbuddhism.fi is an English sister-site of <a href="https://meditoikuinbuddh
 
 <hr>
 
-<a href="https://dnbf.org/en">
-<img src="assets/images/buddhistsocietyofnorway.png" alt="buddhistsocietyofnorway">
+<a href="https://dhamma.fi">
+<img src="assets/images/bannertransparent.png" alt="dhammary">
 </a>
 
-Meditatelikethebuddha.fi is co-operating with <a href="https://www.dnbf.org/en">The Buddhist Society of Norway</a>, which runs a local group in Tampere, Finland.
+Nordicbuddhism.fi is run by <a href="https://dhamma.fi>Dhamma Society of Finland</a>, a newly found Buddhist society which aims to bring the Buddha's teachings come alive in Finland.
 
-If you are interested in participating in our activities send an email to tampere@dnbf.org.
 
 
 
