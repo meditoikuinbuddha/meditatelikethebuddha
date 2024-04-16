@@ -25,4 +25,4 @@ feature_row:
 
 {% include feature_row type="center" %}
 
-Kuvat: photodarma.net, wisdomexperience.org
+Kuvat: photodarma.net, wisdomexperience.org, Unsplash.com
