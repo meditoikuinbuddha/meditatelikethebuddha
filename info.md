@@ -37,7 +37,7 @@ Nordicbuddhism.fi is an English sister-site of <a href="https://meditoikuinbuddh
 <img src="assets/images/bannertransparent.png" alt="dhammary">
 </a>
 
-Nordicbuddhism.fi is run by <a href="https://dhamma.fi>Dhamma Society of Finland</a>, a newly found Buddhist society which aims to bring the Buddha's teachings come alive in Finland.
+Nordicbuddhism.fi is run by <a href="https://dhamma.fi">Dhamma Society of Finland</a>, a newly found Buddhist society which aims to bring the Buddha's teachings come alive in Finland.
 
 
 
